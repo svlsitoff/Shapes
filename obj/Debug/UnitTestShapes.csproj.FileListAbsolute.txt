@@ -1,0 +1,16 @@
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\UnitTestShapes.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\UnitTestShapes.pdb
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\ClassLibShapes.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\ClassLibShapes.pdb
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\obj\Debug\UnitTestShapes.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\obj\Debug\UnitTestShapes.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\obj\Debug\UnitTestShapes.csproj.CopyComplete
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\obj\Debug\UnitTestShapes.dll
+C:\Users\Z\Desktop\Shapes\UnitTestShapes\obj\Debug\UnitTestShapes.pdb
