@@ -56,8 +56,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibShapes\ClassLibShapes.csproj">
-      <Project>{89d582fe-5709-493a-b3bc-14dd7346c481}</Project>
+    <ProjectReference Include="ClassLibShapes\ClassLibShapes.csproj">
+      <Project>{814dea97-3509-4ab8-8d32-41ba8fe99885}</Project>
       <Name>ClassLibShapes</Name>
     </ProjectReference>
   </ItemGroup>

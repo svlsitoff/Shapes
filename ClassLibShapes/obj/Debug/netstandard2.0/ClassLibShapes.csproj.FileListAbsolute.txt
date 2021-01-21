@@ -1,0 +1,9 @@
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\bin\Debug\netstandard2.0\ClassLibShapes.deps.json
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\bin\Debug\netstandard2.0\ClassLibShapes.dll
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\bin\Debug\netstandard2.0\ClassLibShapes.pdb
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\obj\Debug\netstandard2.0\ClassLibShapes.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\obj\Debug\netstandard2.0\ClassLibShapes.AssemblyInfoInputs.cache
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\obj\Debug\netstandard2.0\ClassLibShapes.AssemblyInfo.cs
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\obj\Debug\netstandard2.0\ClassLibShapes.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\obj\Debug\netstandard2.0\ClassLibShapes.dll
+C:\Users\Z\Desktop\Shapes\ClassLibShapes\obj\Debug\netstandard2.0\ClassLibShapes.pdb
